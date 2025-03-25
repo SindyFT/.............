@@ -298,7 +298,7 @@ body {
 <div class="container">
     <!-- Barra lateral -->
     <div class="sidebar">
-        <img src="../HVconfoto/img/foto.jpg" alt="Foto de perfil">
+        <img src="../img/foto.jpg" alt="Foto de perfil">
         <h2>Sindy Fonte</h2>
         <div class="contact-info">  
             <p><strong><i class="fas fa-envelope"></i> Correo:</strong> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sindy.melft05@gmail.com" target="_blank">Sindy.melft05@gmail.com</a></p>  
